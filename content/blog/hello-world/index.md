@@ -1,21 +1,20 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Flipping it All Downside Up
+date: "2019-06-17T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years.
 
-I'm sure I'll write a lot more interesting things in the future.
+5 things:
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+What I'm currently using and understanding- ATOM (https://atom.io).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+ATOM is a text editor that I'm currently using to edit my starter Blog. It is a tool like Sublime Text and VS Code. At this stage of my coding expedition, I've chosen ATOM because the interface is clean and approachable for a beginner.  Hack Reactor's Prep Course answer sheets were written in ATOM, so I've also gotten used to the interface. I'm learning that there are 1 Bazillion different ways to accomplish the same task with some subtle nuances as a coder, so the most important skill at this stage is to explore...but also: MAKE A DECISION about the tools I will use.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+What I'm currently using for study tools- [Quizlet.com] (https://quizlet.com/_6aw7up).
+
+Quizlet is an open source software where anyone can create flashcards and study sets and interact with them digitally. It's really a fast and efficient way to drill in the basics. I've been a private tutor and instructional assistant in a special Education classroom for over 10 years. The tools I've come across and blasted to my students have turned out to be exactly the kinds of tools and study strategies I've needed in order to learn to code so far. Entering a new industry (TECH) comes with boat loads of new words and acronyms. My students know that every time they come across a word they don't understand, most absorption of the following content just..doesn't happen... because they're subconsciously wondering, "What the hell is GraphQL exactly?" and "What does JPG, HTTP, .com, CSS or HTML even stand for and why are we using them and whats the difference, and how are they related?" I'm not ashamed of my elementary vocabulary in tech-- but I WILL grow quickly and efficiently by snagging all of these terms and knowing them COLD.
+
+
+
+![Chinese Salty Egg](./pickle.jpg)
