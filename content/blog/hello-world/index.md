@@ -3,7 +3,9 @@ title: Flipping it All Downside Up
 date: "2019-06-17T22:12:03.284Z"
 ---
 
-I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years.
+I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years. I am packing up am moving out of the community I've been influenced by and had an impact on and savoring every bit of flora, fauna, success, failure, friendship and hardship with immense gratitude. I have been fulfilled by living in Santa Cruz, CA. Now it's time to grow. In NYC-- a little change of pace.
+
+I'm THRILLED to be joining a coding boot camp called Hack Reactor for the September 2019 cohort in West SoHo. So this blog will track resources and lessons that I'm using successfully, struggling to understand, finally understanding as a web-developer/software engineer in the making. I'll introduce 5 resources, lessons, and other tools I'm marveling over per post. Enjoy!
 
 5 things:
 
@@ -15,6 +17,8 @@ What I'm currently using for study tools- [Quizlet.com] (https://quizlet.com/_6a
 
 Quizlet is an open source software where anyone can create flashcards and study sets and interact with them digitally. It's really a fast and efficient way to drill in the basics. I've been a private tutor and instructional assistant in a special Education classroom for over 10 years. The tools I've come across and blasted to my students have turned out to be exactly the kinds of tools and study strategies I've needed in order to learn to code so far. Entering a new industry (TECH) comes with boat loads of new words and acronyms. My students know that every time they come across a word they don't understand, most absorption of the following content just..doesn't happen... because they're subconsciously wondering, "What the hell is GraphQL exactly?" and "What does JPG, HTTP, .com, CSS or HTML even stand for and why are we using them and whats the difference, and how are they related?" I'm not ashamed of my elementary vocabulary in tech-- but I WILL grow quickly and efficiently by snagging all of these terms and knowing them COLD.
 
+What I am using these tool for- gatsby.js (https://www.gatsbyjs.org/)
 
 
+hello?
 ![Chinese Salty Egg](./pickle.jpg)
