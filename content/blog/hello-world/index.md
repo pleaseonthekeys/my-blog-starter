@@ -3,11 +3,9 @@ title: Flipping it All Downside Up
 date: "2019-06-17T22:12:03.284Z"
 ---
 
-I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years. I am packing up am moving out of the community I've been influenced by and had an impact on and savoring every bit of flora, fauna, success, failure, friendship and hardship with immense gratitude. I have been fulfilled by living in Santa Cruz, CA. Now it's time to grow. In NYC-- a little change of pace.
+I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years. I am packing up and moving out of the lush realm I've been influenced by and had an impact on, savoring every bit of flora, fauna, success, failure, friendship and hardship with immense gratitude. I have been fulfilled by living in Santa Cruz, CA. Now it's time to grow. In NYC!!!! A little change of pace.
 
-I'm THRILLED to be joining a coding boot camp called Hack Reactor for the September 2019 cohort in West SoHo. So this blog will track resources and lessons that I'm using successfully, struggling to understand, finally understanding as a web-developer/software engineer in the making. I'll introduce 5 resources, lessons, and other tools I'm marveling over per post. Enjoy!
-
-5 things:
+I'm THRILLED to be joining a coding boot camp called Hack Reactor for the September 2019 cohort in West SoHo. So this blog will track resources and lessons that I'm using successfully, struggling to understand, and finally understanding as a web-developer/software engineer in the making. I'll introduce 3-5 resources, tools, lessons, and other experiences I'm marveling over per post. Enjoy!
 
 What I'm currently using and understanding- ATOM (https://atom.io).
 
@@ -19,6 +17,9 @@ Quizlet is an open source software where anyone can create flashcards and study 
 
 What I am using these tool for- gatsby.js (https://www.gatsbyjs.org/)
 
+Gatsby is a site generator for React ecosystem. I'm not entirely sure what is meant by an ecosystem, so I will elaborate next time. Right now I'm using it to build this blog using a starter site. I'm also going through the tutorials to learn how to build with Gatsby from scratch.
 
-hello?
-![Chinese Salty Egg](./pickle.jpg)
+An image I am pondering
+![Chinese Salty Egg](./ginger.jpeg)
+
+This image of the sun going down on a ginger flower emulates the full, firey blossom I've experienced over the past 12 years in California. The warm lighting reflects the feeling of closing chapters- sweet yet sorrowful. The wilting and browning petals are to be adored as a part of the whole flower's existence. The wild petals curl and splay like the chaotic growth through early adulthood.
