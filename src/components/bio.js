@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives in Santa Cruz and in the midst of a move to NYC to become a software engineer throuh Hack Reactor
+        Written by <strong>{author}</strong> who lives in Santa Cruz and in the midst of a move to NYC to become a software engineer through Hack Reactor
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter
