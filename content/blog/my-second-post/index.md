@@ -5,6 +5,8 @@ date: "2019-07-01T13:01:37.121Z"
 
 ![Santa Cruz](./santacruz.jpg)
 
+Tomorrow I am saying my final goodbyes to dear friends, close enough to be family and flying out of SFO to land in Connecticut. I will have a month and a half before moving into my new apartment in The East Village then starting Hack Reactor.
+
 ## What's to miss about Santa Cruz, California
 
 ###### Allured by the deluge of jasmine clusters
@@ -20,7 +22,7 @@ date: "2019-07-01T13:01:37.121Z"
 
 ## Last week was the first time I: pushed a project to GitHub (http://www.github.com)
 
-I love having mentors. I'm delighted by having someone to cheer me on, challenge me, and share in celebration of small successes. After following some on-line instructions to push my blog project to GitHub and failing to see results, I called on my friend, Lizzie, who was in the same place as me just three years ago. I really like how after teaching me a lesson, we'll run through the process again and before I take an action, she asks, "what do you expect to happen?" This is a question I am making a habit of asking myself because it can be so easy to just roll through the steps of doing something without actually understanding what's happening. Here's how I finally got the project pushed:
+I love having mentors. I'm delighted by having someone to cheer me on, challenge me, and share in celebration of small successes. After following some on-line instructions to push my blog project to GitHub and failing to see results, I called on my friend, Lizzie, who was in the same place as me, technically, just three years ago. I really like how after teaching me a lesson, we'll run through the process again and before I take an action, she asks, "what do you expect to happen?" This is a question I am making a habit of asking myself because it can be so easy to just roll through the steps of doing something without actually understanding what's happening. Here's how I finally got the project pushed:
  - open Command line terminal
  - ran cd my-blog-starter
  - ran git add . (add . adds all changes to the project rather than just individual ones)
