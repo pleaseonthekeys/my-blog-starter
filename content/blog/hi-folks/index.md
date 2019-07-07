@@ -20,6 +20,6 @@ This was a relaxing lesson because up until now, I was resolving my furrowed bro
 
 ##A lil gift for beginner beginners
 
-The vocab and acronyms for a beginner can be brutal. Here is a compilation of command line language. Quiz yourself! Old School learning works!
+The vocab and acronyms for a beginner can be brutal. Here is a running compilation of some command line language. Quiz yourself! Old School learning works!
 
 [CLI Quizlet](https://quizlet.com/_6ulj8p)
