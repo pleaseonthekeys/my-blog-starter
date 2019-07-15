@@ -21,6 +21,6 @@ Gatsby is a site generator for React ecosystem. I'm not entirely sure what is me
 
 ##An image I am pondering
 
-![Chinese Salty Egg](./ginger.jpeg)
+![ginger](./ginger.jpeg)
 
 This image of the sun going down on a ginger flower emulates the full, firey blossom I've experienced over the past 12 years in California. The warm lighting reflects the feeling of closing chapters- sweet yet sorrowful. The wilting and browning petals are to be adored as a part of the whole flower's existence. The wild petals curl and splay like the chaotic growth through early adulthood.
