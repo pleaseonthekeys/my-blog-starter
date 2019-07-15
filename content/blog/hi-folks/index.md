@@ -1,5 +1,5 @@
 ---
-title: Becoming Dangerous
+title: Course Recap- Becoming Dangerous
 date: "2019-07-07T22:40:32.169Z"
 description: "Recapping Lesson 1: Learn Enough Command Line To Be Dangerous"
 ---

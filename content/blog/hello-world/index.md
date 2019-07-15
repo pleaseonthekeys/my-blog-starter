@@ -1,6 +1,7 @@
 ---
-title: Flipping it All Downside Up
+title: Just 5- Flipping It all Upside Down
 date: "2019-06-17T22:12:03.284Z"
+description: A Text Editor, A Study Tool, A Site Generator, An Image
 ---
 
 I've decided to dump the contents of my entire life upside down to reveal all of the gems and dust bunnies that have collected over the past 12 years. I am packing up and moving out of the lush realm I've been influenced by and had an impact on, savoring every bit of flora, fauna, success, failure, friendship and hardship with immense gratitude. I have been fulfilled by living in Santa Cruz, CA. Now it's time to grow. In NYC!!!! A little change of pace.
@@ -19,7 +20,7 @@ Quizlet is an open source software where anyone can create flashcards and study 
 
 Gatsby is a site generator for React ecosystem. I'm not entirely sure what is meant by an ecosystem, so I will elaborate next time. Right now I'm using it to build this blog using a starter site. I'm also going through the tutorials to learn how to build with Gatsby from scratch.
 
-##An image I am pondering
+## An image I am pondering
 
 ![ginger](./ginger.jpeg)
 

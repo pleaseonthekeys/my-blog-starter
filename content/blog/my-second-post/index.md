@@ -1,6 +1,7 @@
 ---
-title: Tomorrow Really Matters or Sweet farewell to Luscious California
+title: Just 5- Sweet farewell to The Best Coast, Hello to The BEAST Coast
 date: "2019-07-01T13:01:37.121Z"
+description: A Poem, A New Skill, A Deployment Tool, An Acronym, A Broadcast
 ---
 
 ![Santa Cruz](./santacruz.jpg)
