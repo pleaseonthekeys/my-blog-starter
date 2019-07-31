@@ -1,6 +1,6 @@
 ---
 title: Just 5- Finding a Rhythm
-date: "2019-07-15T22:12:03.284Z"
+date: "2019-07-15"
 description: A TED Talk, A Win, A Struggle, A Course, A concept
 ---
 
