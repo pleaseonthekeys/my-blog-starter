@@ -16,13 +16,13 @@ Last year my life’s pixels started to take new form. Despite outside skepticis
 
 At 6PM in the middle of July, the lighting has this incredible toasted glow. I quite literally had butterflies in my stomach, grinning until my cheeks went sore, as the sun and I sauntered south down the High Line.
 
-## My Cyclone Though an Intro to Git [Git Immersion Lab](http://gitimmersion.com/) :cyclone:
+## My Cyclone Though an Intro to Git [Git Immersion Lab](http://gitimmersion.com/)
 
 I made a mess.
 
 I now know what I need to pay attention to in order to NOT make such a mess of committing to the wrong branch-- be VERY attentive of the branch I am checking out. However, because I made this mess in the first place earlier last week, I was already able to recover from a little mess I made trying to deploy this site today. Success!
 
-## Stage 1 of Hack Reactor Pre-Course Complete :star:
+## Stage 1 of Hack Reactor Pre-Course Complete
 Here's a list of what I learned
 
 JS Fundamentals  | Git and The Command Line  | Automated Testing | Debugging
@@ -35,3 +35,8 @@ Objects and Properties | | |
 Arrays  | | |
 Functions  | | |
 Parameters  | | |
+
+
+## A Conference I missed that I won't miss next year!! BUST :( [Codeland](https://codelandconf.com/)
+
+[CodeNewbie](https://www.codenewbie.org/) is a very supportive community for us NOOBS learning to code and delving into the coding community. It looks like they put a networking conference on right in my new city and I JUST missed it, BLAST! Check out the distinct speakers from DEV, Flatiron School, GitHub, various podcasts, and on and on and on.
