@@ -25,7 +25,13 @@ I now know what I need to pay attention to in order to NOT make such a mess of c
 ## Stage 1 of Hack Reactor Pre-Course Complete
 Here's a list of what I learned
 
-JS Fundamentals  | Second Header
-------------- | -------------
-HTML/CSS  | Content Cell
-Content Cell  | Content Cell
+JS Fundamentals  | Git and The Command Line  | Automated Testing | Debugging
+------------- | ------------- | ------------- | -------------
+HTML/CSS  | How to Use the Terminal  | [Mocha](https://mochajs.org/) | [Underscore.js](https://underscorejs.org/)
+Values and Types  | Forks and Pull Requests | [Chai](https://www.chaijs.com/) | DevTools Basics
+Operators, Expressions, Statements | Git Work Flow | [Jasmine](https://jasmine.github.io/1.3/introduction.html) |
+Variables |  | |
+Objects and Properties | | |
+Arrays  | | |
+Functions  | | |
+Parameters  | | |
