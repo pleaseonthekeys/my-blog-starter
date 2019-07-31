@@ -1,6 +1,10 @@
 ---
 title: Just 5- Finding a Rhythm
+<<<<<<< HEAD
 date: "2019-07-15"
+=======
+date: "2019-07-15T22:12:03.284Z"
+>>>>>>> 4b5096cc06c21dca19daba0dcbf8d51aed705d2d
 description: A TED Talk, A Win, A Struggle, A Course, A concept
 ---
 
