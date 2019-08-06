@@ -1,5 +1,6 @@
 ---
-title: Just 5- And Away we Go!! ** plus a new feature of -Just $5(ish)- exploring $5ish flavor gems in NYC **
+title: Just 5- And Away we Go!!
+Plus a new feature, Just $5(ish), exploring $5ish flavor gems in NYC
 date: "2019-08-06"
 description: A Gelateria, A little growth spurt, A Bigger Growth Spurt, An Upgrade,
 ---
@@ -11,9 +12,9 @@ description: A Gelateria, A little growth spurt, A Bigger Growth Spurt, An Upgra
 I linked this right to the map of locations around the world, because you'll definitely want that.
 
 ## A concept that was hard for me to wrap my head around (but will show up all the time moving forward):
-I know, I know, this will probably be one of those cringe worthy posts in about a month, when I realize that I just made a detailed post about, like, "How to Walk on Grass", by Lauren Albert. However, this noe is for all of my baby coder friends out there!
+I know, I know, this will probably be one of those cringe worthy posts in about a month, when I realize that I just made a detailed post about, like, "How to Walk on Grass", by Lauren Albert. However, this note is for all of my baby coder friends out there!
 
-Checking to see if something already exists inside a loop before taking action on it, so as to prevent overwriting (see groupBy)
+**Checking to see if something already exists inside a loop before taking action on it, so as to prevent overwriting (a fledgling study and build of underscore.js's [groupBy](https://underscorejs.org/#groupBy) function)**
 
 **Here’s how groupBy finally worked (in plain English)**
 
@@ -23,7 +24,8 @@ Checking to see if something already exists inside a loop before taking action o
 
 The function inside of the forEach loop went as follows:
 	declare a variable named groupType
-		(because each key will be organized by a group type essentially extracted by the predicate function argument called with groupBy() )
+
+		because each key will be organized by a group type essentially extracted by the predicate function argument called with groupBy()
 
 	**create two if-else blocks**
 		1. (Besides syntax, this made sense to me intuitively)
