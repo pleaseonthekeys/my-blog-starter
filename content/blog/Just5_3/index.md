@@ -1,7 +1,7 @@
 ---
 title: Just 5- And Away we Go!! Plus a new weekly feature, Just $5(ish) Challenge, exploring $5ish flavor gems in NYC
 date: "2019-08-06"
-description: A Gelateria, A Little Growth Spurt, A Bigger Growth Spurt, An Upgrade, A Trick
+description: A Gelateria, A Little Growth Spurt, A Bigger Growth Spurt, A Totally Relevant Mind Set, An Upgrade
 ---
 
 ## A Tongue Curling Piece of Art for Just $5(ish): [*Amorino*](https://www.amorino.com/fr/boutiques.html)
@@ -50,13 +50,16 @@ when the forEach loop has finished it’s rounds, close that function out withou
 ## A Fun and Painful Stretch for Brains: A Mostly Empty Project with Fast Approaching Deadlines
 [A wonderful mentor of mine](http://www.intrinsictouchinstitute.com/about-robyn-jones.html) and I have had many conversations surrounding the philosophy of breath, expanding and contracting, and its role beyond the mechanics of our bodies. In the context of yesterday's project, I realized I needed to move into the expansion phase - *connecting* the myriad of relatively smaller lessons (in the contraction phase) about HTML, CSS, Javascript, DevTools, and jQuery - to come up with a broader approach to problem solving.
 
-After the initial panic associated with the deadline and a quiet but looming feeling that I had no idea how to even approach the start, I reached out to four people for help. Every single one of them responded immediately, reminding me that even though I am alone behind this screen, there are real people behind their own screen, eager to connect and help. Thus, the purpose of this post: connection. Learning how all of those technologies communicate and connect was a leap beyond where I'd been. Its that *good* kind of pain.
+After the initial panic associated with the deadline and a quiet but looming feeling that I had no idea how to even approach the start, I dug deep in StackOverFlow, Chrome Dev Tools, W3 School, so many other searches, and I reached out to four people for help. Every single one of them responded immediately, reminding me that even though I am alone behind this screen, there are real people behind their own screen, eager to connect and help. Thus, the purpose of this post: connection. Learning how all of those technologies communicate and connect was a leap beyond where I'd been. Its that *good* kind of pain. And then came some wise advice...
+
+## What Advice Do the Pros Have for Growing? [Anecdote to the Panic](https://youtu.be/askbjJx-BQg)
+Good Plan.
 
 
 ## An Alternative to Mac's Terminal: [iTerm2](https://www.iterm2.com/)
 iTerm2 claims that it is a, "...terminal emulator for macOS that does amazing things." While I have not spent much time in mac's terminal, my momma taught me that if you're going to *really* do something, get the best tools for the thing. I've heard rumors from people I trust, plus here's a [sneak peak at some proof](https://www.iterm2.com/features.html).
 
-## A cool trick in iTerm2: Quadruple click
+#### A cool trick in iTerm2: Quadruple click
 In iTerm2 a quadruple click knows what you’re trying to highlight, like email addresses, URLs, filename, etc!  In other contexts outside of iTerm, a quad click highlights all. I just never realized that I could click more than once or twice for anything useful. Surprise!
 
 Opt for the **'Tip of the Day'** in iTerm2 to learn more of these little gems.
