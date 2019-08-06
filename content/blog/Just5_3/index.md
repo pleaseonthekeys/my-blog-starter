@@ -1,6 +1,5 @@
 ---
-title: Just 5- And Away we Go!!
-Plus a new feature, Just $5(ish), exploring $5ish flavor gems in NYC
+title: Just 5- And Away we Go!! Plus a new weekly feature, Just $5(ish), exploring $5ish flavor gems in NYC
 date: "2019-08-06"
 description: A Gelateria, A little growth spurt, A Bigger Growth Spurt, An Upgrade,
 ---
