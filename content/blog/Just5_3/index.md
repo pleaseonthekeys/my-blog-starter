@@ -1,10 +1,14 @@
 ---
 title: Just 5- And Away we Go!! ** plus a new feature of -Just $5(ish)- exploring $5ish flavor gems in NYC **
 date: "2019-08-06"
-description: A Reason to be Amused, A little growth spurt, A Bigger Growth Spurt, An Upgrade, A Gelateria
+description: A Gelateria, A little growth spurt, A Bigger Growth Spurt, An Upgrade,
 ---
 
-##
+## A Tongue Curling Piece of Art for Just $5(ish): [*Amorino*](https://www.amorino.com/fr/boutiques.html)
+![Amorino](./amorino_image_1.jpg)
+######(source: victorialeeds.co.uk)
+
+I linked this right to the map of locations around the world, because you'll definitely want that.
 
 ## A concept that was hard for me to wrap my head around (but will show up all the time moving forward):
 I know, I know, this will probably be one of those cringe worthy posts in about a month, when I realize that I just made a detailed post about, like, "How to Walk on Grass", by Lauren Albert. However, this noe is for all of my baby coder friends out there!
@@ -49,9 +53,3 @@ iTerm2 claims that it is a, "...terminal emulator for macOS that does amazing th
 In iTerm2 a quadruple click knows what you’re trying to highlight, like email addresses, URLs, filename, etc!  In other contexts outside of iTerm, a quad click highlights all. I just never realized that I could click more than once or twice for anything useful. Surprise!
 
 Opt for the **'Tip of the Day'** in iTerm to learn more of these little gems.
-
-## A Tongue Curling Piece of Art for Just $5(ish): [*Amorino*](https://www.amorino.com/fr/boutiques.html)
-![Amorino](./amorino_image_1.jpg)
-######(source: victorialeeds.co.uk)
-
-I linked this right to the map of locations around the world, because you'll definitely want that.
