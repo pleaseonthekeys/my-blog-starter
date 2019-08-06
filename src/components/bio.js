@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives in Santa Cruz and in the midst of a move to NYC to become a software engineer through Hack Reactor
+        Written by <strong>{author}</strong>, a beginner software engineer who lives in Manhattan. This is her weekly blog with no more than 5 experiences, resources, discoveries, and anything else she thinks is worth sharing in the world of software development, tech, and NYC.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter

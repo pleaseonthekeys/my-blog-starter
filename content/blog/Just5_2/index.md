@@ -16,13 +16,14 @@ Last year my life’s pixels started to take new form. Despite outside skepticis
 
 At 6PM in the middle of July, the lighting has this incredible toasted glow. I quite literally had butterflies in my stomach, grinning until my cheeks went sore, as the sun and I sauntered down the High Line.
 
-## My Cyclone Though an Intro to Git: [Git Immersion Lab](http://gitimmersion.com/)
+## My Cyclone Through an Intro to Git: [Git Immersion Lab](http://gitimmersion.com/)
 
 I made a mess.
 
 I now know what I need to pay attention to in order to NOT make such a mess of committing to the wrong branch-- be VERY attentive of the branch I am checking out. However, because I made this mess in the first place earlier last week, I was already able to recover from a little mess I made trying to deploy this site today. Success!
 
 ## Stage 1 of Hack Reactor Pre-Course Complete: BOOM!
+
 Here's a list of what I learned (and then some) -
 
 JS Fundamentals  | Git and The Command Line  | Automated Testing | Debugging
