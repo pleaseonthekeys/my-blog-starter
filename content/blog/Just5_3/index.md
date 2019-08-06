@@ -24,7 +24,7 @@ I know, I know, this will probably be one of those cringe worthy posts in about 
 The function inside of the forEach loop went as follows:
 	declare a variable named groupType
 
-		because each key will be organized by a group type essentially extracted by the predicate function argument called with groupBy()
+		because each key will be organized by a group type essentially extracted by the predicate function argument called with groupBy
 
 	**create two if-else blocks**
 		1. (Besides syntax, this made sense to me intuitively)
