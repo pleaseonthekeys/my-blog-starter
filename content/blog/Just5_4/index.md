@@ -26,6 +26,7 @@ This was enough of an adrenaline rush to plant a seed of what I believe to be a 
 There are heaps of really thorough courses in here for all levels. I'm particularly enjoying the pedagogy of Kyle Simpson, author of [You Don't Know JS](https://www.amazon.com/gp/bookseries/B01N9EBP9V). Although there are obviously many many free resourses, if you're just starting off and are serious about coding, the $40.00/month subscription is really worth it.
 
 ## A Bit of Encouragement from the Twitter Dev Community: Suffering Oriented Learning
+
 ![twitterEncouragement](./grahamlutz.png)
 
 ## A Breakdown to Avoid Breakdown: [How to Code Anything in 6 Steps](https://leewarrick.com/blog/how-to-learn-anything/)
