@@ -34,6 +34,6 @@ This week, I learned to get over an apparent fear of asking questions. I always 
 ## A Quick Guide to Analyzing the Complexity of Algorithmic Approaches: Big-O
 At its simplest, Big-O is a tool for analyzing and communicating the complexity of the solutions to software engineering problems. This [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) provides a look up table for various algorithms best and worst case time and space complexities. If you have never encountered this tool, check out this [Introduction to Big-O video](https://www.youtube.com/watch?v=D6xkbGLQesk).
 
-## Hop on the [Coding Train] (https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+## Hop on the [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 Currently, I am taking a deep dive into [Object Oriented Programming](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i) in order to grasp classes and data structures; however, I also followed this channel and watched JavaScript intro videos when I was **first** starting to learn to code. Daniel Shiffman is a very charismatic and relatable teacher. The interface is colorful and the quality of Daniel's delivery creates a very enjoyable learning experience! Where ever you are on your learning path, hop on the Coding Train!!
 
