@@ -1,10 +1,10 @@
 ---
 title: Just 5 - Hack Reactor Week 7 (Senior Phase)
 date: "2019-10-22"
-description: Const Improvement, A Gift(ERROR), Where Has This Been My Whole Life?,
+description: Const Improvement, A Gift(ERROR), Where Has This Been My Whole Life?, I see (with Spectacle)
 ---
 
-## Moving Towards Excellence
+## Carrying On!
 
 Since my last post on September 8th, I've embarked on what has been a spectacularly challenging, all consuming quest to be nothing but the best version of myself. Technically speaking, I devoted 15 hours per day (with breaks) usually including a 10-12 hour day on Sundays for the past 6 weeks to getting my programming 'reps' in. I decided that during my junior phase, instead of maintaining my blog, I would reflect by reproducing sprints, articulating new technical skills verbally with mentors and peers, and teaching what I could to other members of my cohort. For me, it has been an excellent decision to join this in-person cohort. I have fully immersed myself in every resource and piece of feedback provided. Most importantly, I have been able to transform what initially felt like constant failures into a constant guide toward improvement.
 
@@ -23,3 +23,9 @@ As you begin to develop apps, you quickly learn that (non-silent) errors are oft
 | React       | Objects are not valid as a React child | The React Error messages even go into detail suggesting, "...If you meant to render a collection of children, use an array instead....". This error often occurs when querying for data and setting a state property equal to this data as an object instead of an array, string, boolean, or number. |                                                                         console.log your data to be clear about its structure. If you manipulate the structure, create an example of the shape you would like the data to take, slow down, an change your syntax to make sure that you are manipulating your data correctly                                                                         |
 
 ## An App You Wish You Had For The Past 10 Years: [Paste](https://pasteapp.me/)
+
+So, you're working on a large project, you have your workflow going smoothly, you copy the entire contents of a file, or some huge snippet so you can paste it somewhere else. Then you go to your terminal to switch branches and you think, hmm, that branch name is kind of long, so I'll just 'git branch' then copy the branch name and paste it into the terminal when I checkout. Great! And now you are totally off track because you lost the huge code snippet that you just copied from the old branch and you have to go back and start the whole process over again. Okay there are probably other ways to fix this scenario or make sure it doesn't happen in the first place. One of those answers is with Paste. It is incredibly simple to use and incredibly useful. Anything you copy will be stored in a 30-day 'bucket'. when you use command-shift-v to paste, Paste will bring up a window in the bottom of your screen with notepad images carrying your most recent copies. You can just retrieve what you need from there!! Beautiful.
+
+## A Tool for Faster Workflow [Spectacle](https://github.com/eczarny/spectacle)
+
+You have to get faster at everything you do as a developer. While, slow deep learning is incredibly important, you have a job to do, and its way more fun when you can sprint around your environment. To look (and act) like a professional, that partially means knowing your way around your keyboard and terminal in a smoothe and efficient manner. Take the time to learn these keyboard short cuts with the Spectacle app. Once you do master them, which does not take too long with a little discipline, you will feel like a rockstar.
